@@ -1,0 +1,9 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+.hello{
+    color: yellowgreen;
+}
+.ant-spin-container{
+    background-color:pink ;
+} */
